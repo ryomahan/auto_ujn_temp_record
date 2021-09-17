@@ -5,7 +5,12 @@ python3+
 | 库名 | 用途 |
 |----|----|
 | requests | 构造 HTTP 请求 |
-| execjs   | 运行 JS 脚本   |
+| PyExecJS   | 运行 JS 脚本   |
+
+```
+pip install requests
+pip install PyExecJS
+```
 
 ## 使用流程
 1. 准备好 python3 运行环境并安装所需第三方库
