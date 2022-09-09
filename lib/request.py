@@ -158,7 +158,9 @@ def post_fanxiao_temperature_record(sid):
         "travelMode": None,
         "temperatureAm": "36.5",
         "temperaturePm": "36.5",
-        "reserveOne": "36.5"
+        "reserveOne": "36.5",
+        'latitude': '36.610435',
+        'longitude': '116.95734',
     }
 
     try:
